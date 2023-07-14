@@ -9,4 +9,3 @@ require (
 	github.com/golang/snappy v0.0.4
 	github.com/stretchr/testify v1.3.0 // indirect
 )
-
